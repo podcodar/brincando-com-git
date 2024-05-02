@@ -17,3 +17,8 @@ Alguns amigos nos questionam da veracidade dessas histórias, comparando com ver
 
 Muita viagem, né? Então vem com a gente nesse papo.
 TODO: adicionar link da apresentação
+
+
+TODO: adicionar material introdotório
+TODO: adicionar material intermediário
+TODO: adicionar material avançado
